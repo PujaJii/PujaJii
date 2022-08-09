@@ -28,7 +28,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
             count += 1;
           });
         },
-        child: Text('Clicked $count'),
+        child: Text('$count'),
 
       )
     );
